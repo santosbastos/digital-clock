@@ -1,2 +1,2 @@
 # Digital-Clock
-Relófgio digital
+Relógio digital
