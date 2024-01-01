@@ -11,6 +11,9 @@ body {
   background-size: cover;
   overflow: hidden;
 }
+h1 {
+  color: aliceblue;
+}
 
 h2{
   text-transform: uppercase;
