@@ -11,11 +11,9 @@ body {
   background-size: cover;
   overflow: hidden;
 }
-h1 {
-  color: aliceblue;
-}
 
-h2{
+
+h1,h2{
   text-transform: uppercase;
   letter-spacing: 4px;
   font-size: 18px;
